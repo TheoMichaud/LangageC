@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1510224675 source:/home/USERS/ELEVES/SNIR2017/kleca/Documents/ChaineLettres/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1510224675 source:/home/USERS/ELEVES/SNIR2017/kleca/Documents/LangageC/TD04/ChaineLettres/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1510224675 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TEST/TD04/ChaineLettres/main.c
+	<stdio.h>
+	<stdlib.h>
+

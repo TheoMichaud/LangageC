@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511171877 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD3/exTP_MoyenneMobile/main.c
+	<stdio.h>
+	<stdlib.h>
+

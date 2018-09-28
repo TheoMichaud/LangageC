@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1516617357 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/DEVOIR/TreasureQuest/biblio.c
+	"biblio.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/timeb.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
+1516615553 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/DEVOIR/TreasureQuest/biblio.h
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<sys/timeb.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
+1516618402 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/DEVOIR/TreasureQuest/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+

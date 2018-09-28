@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506589555 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD1/second degres/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

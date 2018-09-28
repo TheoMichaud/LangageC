@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1516263687 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/TD/TD_complexesportif/biblio.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+
+1516262475 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/TD/TD_complexesportif/biblio.h
+
+1516263889 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/TD/TD_complexesportif/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+

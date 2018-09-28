@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510567598 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD3/ex4_/main.c
+	<stdio.h>
+	<stdlib.h>
+

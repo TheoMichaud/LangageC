@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1506929912 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TP2 Leds/Bouclesindefinies/main.c
+	<stdio.h>
+	<stdlib.h>
+	<senseHat.h>
+	<unistd.h>
+

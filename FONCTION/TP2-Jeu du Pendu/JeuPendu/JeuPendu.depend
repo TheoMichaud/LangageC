@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1515395653 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TP2-Jeu du Pendu/JeuPendu/gestionPendu.c
+	"gestionPendu.h"
+
+1515395598 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TP2-Jeu du Pendu/JeuPendu/gestionPendu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<errno.h>
+	<sys/timeb.h>
+	<math.h>
+
+1515397625 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TP2-Jeu du Pendu/JeuPendu/main.c
+	"gestionPendu.h"
+

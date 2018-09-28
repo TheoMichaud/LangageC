@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506928981 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/CodeBlocks Raspberry/TP2 Leds/bouclesImbriquees/main.c
+	<stdio.h>
+	<stdlib.h>
+	<senseHat.h>
+

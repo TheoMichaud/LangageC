@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512981096 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/ChaineDeCaractere/TD2/Crypteur/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

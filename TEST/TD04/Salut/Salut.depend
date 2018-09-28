@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510130861 source:/home/USERS/ELEVES/SNIR2017/kleca/Documents/Salut/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511172461 source:/home/USERS/ELEVES/SNIR2017/kleca/Documents/LangageC/TD04/Salut/main.c
+	<stdio.h>
+	<stdlib.h>
+

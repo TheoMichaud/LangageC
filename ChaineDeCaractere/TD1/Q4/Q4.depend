@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511163697 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/ChaineDeCaractere/TD1/Q4/main.c
+	<stdio.h>
+	<stdlib.h>
+

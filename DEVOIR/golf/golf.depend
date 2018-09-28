@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1517481989 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/DEVOIR/golf/golf.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"golf.h"
+
+1517478380 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/DEVOIR/golf/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"golf.h"
+
+1517477611 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/DEVOIR/golf/golf.h
+	<errno.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<sys/timeb.h>
+	<math.h>
+	<ctype.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1510133977 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/ChaineDeCaractere/3Comparaisondechaine/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

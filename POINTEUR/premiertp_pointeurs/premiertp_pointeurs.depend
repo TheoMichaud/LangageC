@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513672680 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/POINTEUR/premiertp_pointeurs/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1516001430 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/POINTEUR/discriminant/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+
+1516001465 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/POINTEUR/discriminant/biblio.c
+
+1516001465 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/POINTEUR/discriminant/biblio.h
+

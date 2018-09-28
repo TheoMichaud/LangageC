@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1517210687 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/Gestion centre sportif/complestests/biblioTest.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioTest.h"
+
+1516875940 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/Gestion centre sportif/complestests/biblioTest.h
+
+1516875963 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/Gestion centre sportif/complestests/main.c
+	<stdio.h>
+	<stdlib.h>
+

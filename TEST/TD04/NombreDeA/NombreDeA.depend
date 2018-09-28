@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510041589 source:/home/USERS/ELEVES/SNIR2017/kleca/Documents/NombreDeA/main.c
+	<stdio.h>
+	<stdlib.h>
+

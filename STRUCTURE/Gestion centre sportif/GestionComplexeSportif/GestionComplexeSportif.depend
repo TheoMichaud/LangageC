@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1516269780 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/Gestion centre sportif/GestionComplexeSportif/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+
+1516269599 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/Gestion centre sportif/GestionComplexeSportif/biblio.h
+
+1516269749 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/Gestion centre sportif/GestionComplexeSportif/biblio.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+

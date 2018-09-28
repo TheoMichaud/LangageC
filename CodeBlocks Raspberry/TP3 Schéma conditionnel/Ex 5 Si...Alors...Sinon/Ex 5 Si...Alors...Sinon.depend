@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507533741 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/CodeBlocks Raspberry/TP3 Schéma conditionnel/Ex 5 Si...Alors...Sinon/main.c
+	<stdio.h>
+	<stdlib.h>
+	<senseHat.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1513065292 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/exo3/avecbiblio/biblioPerso.c
+	<stdio.h>
+	<stdlib.h>
+
+1513065349 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/exo3/avecbiblio/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioPerso.h"
+
+1513064995 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/exo3/avecbiblio/biblioPerso.h
+

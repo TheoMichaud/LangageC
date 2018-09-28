@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513673612 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/POINTEUR/TD1/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510823226 source:/home/USERS/ELEVES/SNIR2017/kleca/Documents/Conjugaison/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511337254 source:/home/USERS/ELEVES/SNIR2017/kleca/Documents/LangageC/TD04/Conjugaison/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

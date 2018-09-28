@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507194917 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD1/binairehexaetdecimale/main.c
+	<stdio.h>
+	<stdlib.h>
+

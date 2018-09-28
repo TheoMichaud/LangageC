@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513593399 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/BibliotequeDeFonctions/BiblioDeFonction.c
+	<stdio.h>
+	<stdlib.h>
+
+1513593501 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/BibliotequeDeFonctions/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BiblioDeFonction.h"
+
+1513591113 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/BibliotequeDeFonctions/BiblioDeFonction.h
+

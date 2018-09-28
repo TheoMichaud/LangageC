@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1513235472 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/AfficherCalculerCarre/BiblioPerso.c
+
+1513235509 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/AfficherCalculerCarre/main.c
+	<stdio.h>
+	<stdlib.h>
+	"BiblioPerso.h"
+
+1513068344 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/AfficherCalculerCarre/BiblioPerso.h
+

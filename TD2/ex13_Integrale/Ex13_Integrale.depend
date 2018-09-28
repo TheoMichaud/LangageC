@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509957919 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/EVALLANGAGEC/Ex13_Integrale/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1509960567 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD2/ex13_Integrale/main.c
+	<stdio.h>
+	<stdlib.h>
+

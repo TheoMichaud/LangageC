@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1506927744 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TP2 Leds/Bouclesdefinies/main.c
+	<stdio.h>
+	<stdlib.h>
+	<senseHat.h>
+
+1506928211 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/CodeBlocks Raspberry/TP2 Leds/Bouclesdefinies/main.c
+	<stdio.h>
+	<stdlib.h>
+	<senseHat.h>
+

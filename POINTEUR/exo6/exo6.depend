@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1515660516 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/POINTEUR/exo6/biblio.c
+
+1515658631 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/POINTEUR/exo6/main.c
+	<stdio.h>
+	<stdlib.h>
+

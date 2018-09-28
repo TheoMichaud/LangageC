@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1516696358 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/ACCESFICHIER/accesfichier/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1516696358 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/ACCESFICHIER/1/accesfichier/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+

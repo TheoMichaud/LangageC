@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506584368 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD1/IMC/main.c
+	<stdio.h>
+	<stdlib.h>
+

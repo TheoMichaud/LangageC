@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1516090779 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/ARGUMENTS/testfacto/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+
+1516090717 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/ARGUMENTS/testfacto/biblio.c
+	"biblio.h"
+
+1516090718 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/ARGUMENTS/testfacto/biblio.h
+

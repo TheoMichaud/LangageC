@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1480583987 source:/home/USERS/ELEVES/SNIR2016/atheard/ProgrammationC/structureEtDefType/TDQ1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"typeStructure.h"
+
+1480584318 /home/USERS/ELEVES/SNIR2016/atheard/ProgrammationC/structureEtDefType/TDQ1/typeStructure.h
+
+1480584061 source:/home/USERS/ELEVES/SNIR2016/atheard/ProgrammationC/structureEtDefType/TDQ1/typeStructure.c
+	<stdio.h>
+	<stdlib.h>
+	"typeStructure.h"
+
+1516260734 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/TD/TDQ1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"typeStructure.h"
+
+1516264832 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/TD/TDQ1/typeStructure.h
+
+1516260726 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/TD/TDQ1/typeStructure.c
+	<stdio.h>
+	<stdlib.h>
+	"typeStructure.h"
+

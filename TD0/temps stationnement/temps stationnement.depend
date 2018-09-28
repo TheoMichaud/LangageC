@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1506591921 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD1/temps stationnement/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1507187471 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TP1/temps stationnement/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

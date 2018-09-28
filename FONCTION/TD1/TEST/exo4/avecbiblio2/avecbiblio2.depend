@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1513066401 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/exo4/avecbiblio2/biblioCarre.c
+
+1513066582 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/exo4/avecbiblio2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioCarre.h"
+
+1513066582 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/exo4/avecbiblio2/biblioCarre.h
+
+1513066401 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/TEST/exo4/avecbiblio2/biblioCarre.c
+
+1513066582 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/TEST/exo4/avecbiblio2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioCarre.h"
+
+1513066582 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/TEST/exo4/avecbiblio2/biblioCarre.h
+

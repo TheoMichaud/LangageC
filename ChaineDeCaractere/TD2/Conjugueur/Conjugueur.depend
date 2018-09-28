@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512033588 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/ChaineDeCaractere/TD2/Conjugueur/main.c
+	<stdio.h>
+	<stdlib.h>
+

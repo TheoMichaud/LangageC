@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509955726 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD2/Ex12_serrurecodee/main.c
+	<stdio.h>
+	<stdlib.h>
+

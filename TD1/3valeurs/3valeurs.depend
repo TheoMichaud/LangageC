@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507193293 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD1/3valeurs/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510557258 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD2/ex17_sablier/main.c
+	<stdio.h>
+	<stdlib.h>
+

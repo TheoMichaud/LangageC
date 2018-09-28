@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1517220376 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/ACCESFICHIER/TD8 acces fichiers/TD1/exercice_2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+

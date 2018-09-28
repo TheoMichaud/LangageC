@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1513067610 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/exo5/avecbiblio3/caluclerCarre.c
+
+1513067924 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/exo5/avecbiblio3/main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculerCarre.h"
+
+1513067589 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TD1/exo5/avecbiblio3/calculerCarre.h
+

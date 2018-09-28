@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508406011 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/EVALLANGAGEC/test1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	<sys/timeb.h>
+	<math.h>
+	<ctype.h>
+	<unistd.h>
+	<time.h>
+

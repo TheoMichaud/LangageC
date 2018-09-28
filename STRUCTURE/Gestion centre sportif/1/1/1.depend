@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516868175 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/Gestion centre sportif/1/1/main.c
+	<stdio.h>
+	<stdlib.h>
+

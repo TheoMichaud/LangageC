@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506587724 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD1/moyenne/main.c
+	<stdio.h>
+	<stdlib.h>
+

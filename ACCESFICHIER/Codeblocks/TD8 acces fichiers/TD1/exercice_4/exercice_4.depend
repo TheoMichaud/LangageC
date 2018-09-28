@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1517222897 source:/home/USERS/ELEVES/SNIR2017/mrocher/LangageC/Codeblocks/TDs/TD8 acces fichiers/TD1/exercice_4/maBiblio.c
+	"maBiblio.h"
+
+1517222916 /home/USERS/ELEVES/SNIR2017/mrocher/LangageC/Codeblocks/TDs/TD8 acces fichiers/TD1/exercice_4/maBiblio.h
+
+1517222716 source:/home/USERS/ELEVES/SNIR2017/mrocher/LangageC/Codeblocks/TDs/TD8 acces fichiers/TD1/exercice_4/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	"maBiblio.h"
+
+1517223041 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/ACCESFICHIER/TD8 acces fichiers/TD1/exercice_4/main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	"maBiblio.h"
+
+1517222916 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/ACCESFICHIER/TD8 acces fichiers/TD1/exercice_4/maBiblio.h
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1506583263 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD1/temperature/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1506583725 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD1/temperature/Inverse.c
+	<stdio.h>
+	<stdlib.h>
+
+1506583725 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD0/temperature/Inverse.c
+	<stdio.h>
+	<stdlib.h>
+
+1506583763 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD0/temperature/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1516003100 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/TD/TD/biblio.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+
+1516002947 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/TD/TD/biblio.h
+
+1516003170 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/STRUCTURE/TD/TD/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+

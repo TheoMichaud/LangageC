@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513242800 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TABLEAUDIMENSION/TD1/ex2_Sinusoide/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1510133022 source:/home/USERS/ELEVES/SNIR2017/kleca/Documents/Palindrome/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1510223064 source:/home/USERS/ELEVES/SNIR2017/kleca/Documents/LangageC/TD04/Palindrome/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510223064 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TEST/TD04/Palindrome/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

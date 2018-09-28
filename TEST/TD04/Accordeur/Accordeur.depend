@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511254580 source:/home/USERS/ELEVES/SNIR2017/kleca/Documents/Accordeur/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511337917 source:/home/USERS/ELEVES/SNIR2017/kleca/Documents/LangageC/TD04/Accordeur/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

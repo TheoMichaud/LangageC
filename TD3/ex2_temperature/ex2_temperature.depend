@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510561512 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/TD3/ex2_temperature/main.c
+	<stdio.h>
+	<stdlib.h>
+

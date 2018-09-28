@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1513852166 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TP1/PoidsIdeal/BiblioDeFonction.c
+	<stdio.h>
+	<stdlib.h>
+
+1513852166 source:/home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TP1/PoidsIdeal/main.c
+	<stdio.h>
+	<stdlib.h>
+	"BiblioDeFonction.h"
+
+1513851398 /home/USERS/ELEVES/SNIR2017/tmichaud/LangageC/FONCTION/TP1/PoidsIdeal/BiblioDeFonction.h
+

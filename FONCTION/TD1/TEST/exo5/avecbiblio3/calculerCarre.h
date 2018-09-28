@@ -1,0 +1,6 @@
+#ifndef CALCULERCARRE_H_INCLUDED
+#define CALCULERCARRE_H_INCLUDED
+
+int calculerCarre(int val);
+
+#endif // CALCULERCARRE_H_INCLUDED
